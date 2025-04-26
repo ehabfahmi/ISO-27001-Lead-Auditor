@@ -35,10 +35,15 @@ Final Exam
 ## Steps:
 
 Step 1: Introduction to the information security management system (ISMS) and ISO/IEC 27001
+
 Step 2: Audit principles, preparation, and initiation of an audit
+
 Step 3: On-site audit activities
+
 Step 4: Closing the audit
-Step 5: Certification Exam 
+
+Step 5: Certification Exam
+
 
 ## To be considered valid, these audits should follow best audit practices and include the following activities:
 
